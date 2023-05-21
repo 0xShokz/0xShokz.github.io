@@ -10,6 +10,13 @@
   {% assign title = post.title %}
 {% endif %}
 
+<!-- Begin customization -->
+{% if post.ribbon %}
+  {% assign ribbon = post.ribbon %}
+{% else %}
+  {% assign ribbon = 'darkgrey' %}
+{% endif %}
+
 <link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet">
 
 <a href="{{ post.url | relative_url }}" class="post-blog-card" style="text-decoration: none; 
@@ -36,6 +43,7 @@
 
   </div>
 </a>
+<!-- End customization -->
 
 <!--
 <div class="{{ include.type | default: 'list' }}__item">
