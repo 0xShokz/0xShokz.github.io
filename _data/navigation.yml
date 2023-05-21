@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Security Architecture"
+    url: /categories/#security-architecture
+  - title: "zero-trust"
+    url: /categories/#zero-trust
   - title: "Categories"
     url: /categories
   # - title: "Sample Posts"
