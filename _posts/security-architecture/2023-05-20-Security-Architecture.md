@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/Zero-Trust-Architecture/ms-zt-diagram.png
   overlay_image: /assets/images/Zero-Trust-Architecture/ms-zt-diagram.png
   overlay_filter: 0.5
-ribbon: DarkSlateGray
+ribbon: DarkSlateBlue
 excerpt: "Security Architecture"
 description: "Security Architecture"
 categories:
