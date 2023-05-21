@@ -2,7 +2,7 @@
 main:
   - title: "Security Architecture"
     url: /categories/#security-architecture
-  - title: "zero-trust"
+  - title: "Zero Trust"
     url: /categories/#zero-trust
   - title: "Categories"
     url: /categories
